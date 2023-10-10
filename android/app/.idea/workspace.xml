@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b11483ae-4877-4f71-8bef-cd66884fb5fc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/custom/custom_drawer.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/custom/custom_drawer.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/screen/auth/login_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/screen/auth/login_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/screen/home_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/screen/home_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/screen/report_module/bank_ledger.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/screen/report_module/bank_ledger.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/screen/sales_module/customer_due_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/screen/sales_module/customer_due_list.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/screen/sales_module/customer_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/screen/sales_module/customer_list.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/utils/const_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/utils/const_page.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2Vbnl7lFllBmeUupeXIRZwgwnPR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b11483ae-4877-4f71-8bef-cd66884fb5fc" name="Changes" comment="" />
+      <created>1695113796312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695113796312</updated>
+    </task>
+    <servers />
+  </component>
+</project>
